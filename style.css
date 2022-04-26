@@ -136,7 +136,7 @@ img {
 .item:nth-child(odd)::after {
   content: "";
   position: absolute;
-  right: -5.3rem;
+  right: -5.4rem;
   top: 50%;
   transform: translate(-50%, -50%);
   width: 1rem;
@@ -160,7 +160,7 @@ img {
 .item:nth-child(even)::after {
   content: "";
   position: absolute;
-  right: -5.3rem;
+  left: -3.6rem;
   top: 50%;
   transform: translate(-50%, -50%);
   width: 1rem;
